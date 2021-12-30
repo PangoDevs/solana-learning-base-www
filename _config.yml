@@ -1,1 +1,7 @@
+title: Solana Learning
+description: >-
+  Shared learning base to enlight some doubts and to help
+  developers from the Solana ecosystem.
+
 remote_theme: pmarsceill/just-the-docs
+search_enabled: true
